@@ -51,7 +51,7 @@ This is **not a functional payment system**.
 </a>
 
 <a href="https://github.com/Rozabelay339">
-  <img src="https://avatars.githubusercontent.com/u/180546490?size=50">
+  <img src="https://avatars.githubusercontent.com/u/180546490?widht="50" height="50"">
 </a>
 
 <a href="https://github.com/ewahjelm">
