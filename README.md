@@ -11,7 +11,7 @@ The purpose is to showcase architecture and integration patterns — not to prov
 
 **We describe our project more in details and provide full documentation here:**
 
-**[Documentation Site](https://<your-docs-url>)**
+**[Documentation Site](https://docs-pos-app.netlify.app/)**
 
 ## Background
 
@@ -40,7 +40,7 @@ This is **not a functional payment system**.
 /docs           # Documentation source
 ```
 
-## The people behind the project
+## Contributors
 
 <a href="https://github.com/JohannesL2">
   <img src="https://avatars.githubusercontent.com/u/183211686?size=50">
